@@ -6,7 +6,7 @@
 # Copyright (C) 2020 KFERMercer
 #
 # fuck self build
-name: OpenWrt-CI
+name: OpenWrt-CI1
 
 on:
   schedule:
