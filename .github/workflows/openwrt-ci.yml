@@ -9,8 +9,11 @@
 name: OpenWrt-CI1
 
 on:
-  schedule:
-    - cron: 0 20 * * *
+  push:
+    branches: 
+      - master
+  # schedule:
+  #   - cron: 0 20 * * *
   release:
     types: [published]
 
