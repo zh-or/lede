@@ -6,6 +6,7 @@
 # Copyright (C) 2020 KFERMercer
 #
 # fuck self build
+# rebuild
 name: OpenWrt-CI1
 
 on:
